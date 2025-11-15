@@ -1,0 +1,6 @@
+ytbot/
+env/
+Lib/
+Scripts/
+__pycache__/
+*.pyc
