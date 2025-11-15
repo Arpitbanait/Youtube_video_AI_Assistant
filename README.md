@@ -31,6 +31,7 @@ git clone https://github.com/Arpitbanait/Youtube_video_AI_Assistant.git
 cd Youtube_video_AI_Assistant
 ```
 ⚙️ Environment Setup
+
 2. Create a virtual environment (optional but recommended)
 ```bash
 python -m venv venv
