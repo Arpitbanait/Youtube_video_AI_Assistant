@@ -84,7 +84,7 @@ Make sure .gitignore contains:
 4. Run the main app
 
 ```bash
-python app.py
+Streamlit run app.py
 ```
 
 📝 Usage
